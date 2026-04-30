@@ -4,7 +4,8 @@
 @theme {
   --color-bg: #FDFCFB;
   --color-ink: #1A2B3C;
-  --color-accent: #C27803;
+  --color-accent: #EAB308;
+  --color-primary: #BE123C;
   --color-muted: #64748B;
   --font-serif: Georgia, serif;
   --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
